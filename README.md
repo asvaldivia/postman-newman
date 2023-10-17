@@ -14,7 +14,7 @@ Sigue estos pasos para instalar las dependencias y configurar el entorno:
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/DUNA-E-Commmerce/api-testing.git
+   git clone https://github.com/asvaldivia/postman-newman.git
 
 2. Navega hasta la carpeta del proyecto:
 
@@ -63,4 +63,3 @@ Esto iniciará la ejecución de las pruebas en las carpetas especificadas.
 5. Se puede especificar las carpetas tambien a través del CLI con el flag -- --FOLDERS=Something,Other despúes de npm test, ver la sección USO.
 
 6. Los reportes se generan dentro de las carpetas del repositorio, dentro de la carpeta 'newman', genera los reportes en html y xml.
-
