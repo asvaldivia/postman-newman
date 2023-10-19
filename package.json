@@ -23,6 +23,7 @@
     "@types/minimist": "^1.2.2",
     "@types/newman": "^5.3.2",
     "@types/node": "^18.14.2",
-    "minimist": "^1.2.8"
+    "minimist": "^1.2.8",
+    "ts-node": "^10.9.1"
   }
 }
