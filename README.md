@@ -52,7 +52,16 @@ To execute the test using the Newman runner, follow the steps below:
       npm test -- --FOLDERS='FOLDER_NAME_A, FOLDER_NAME_B'
 
 That script just will execute the specified folders.
-For example, having the following collection:
+- For example, having the following collection:
+<img src="https://github.com/asvaldivia/postman-newman/assets/51498295/4c63c1f5-70d1-4de5-8b6a-edf4ad7adcee" alt="drawing" width="600"/>
+
+- And running the following in the CLI
+
+   ```bash
+      npm test -- --FOLDERS='response validations, performance'
+
+- That will run just the requests in the folders specified:
+   <img src="https://github.com/asvaldivia/postman-newman/assets/51498295/62049e61-b479-4ce0-9757-e7507c29deac" alt="drawing" width="600"/>
 
 ## Additional information
 
