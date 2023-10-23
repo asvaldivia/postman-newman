@@ -19,7 +19,7 @@ Follow the steps to install the dependencies, and to configure the environment v
 2. Go to the project folder:
 
    ```bash
-      cd api-testing
+      cd postman-newman
 
 3. Install the dependencies:
 
